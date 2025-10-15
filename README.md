@@ -15,4 +15,4 @@ Each directory contains:
 - **General/** → miscellaneous or cross-game notes  
 
 ---
-*Maintained by Seravyn (HexaSlip)*
+*Maintained by Miriah (HexaSlip)*
