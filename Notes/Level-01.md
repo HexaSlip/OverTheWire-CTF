@@ -14,4 +14,4 @@
 ### Successfully acquired: 
 Password: ```xxxxx```
 #### Next Login Command:
-```ssh bandit2bandit.labs.overthewire.org -p 2220
+```ssh bandit2bandit.labs.overthewire.org -p 2220 ```
