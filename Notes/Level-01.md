@@ -11,5 +11,7 @@
 #### Command Used:
   ```bandit1@bandit:~$ cat ./-```
   
-Successfully acquired the password, logged out of the server, and entered via SSH command into Level 2. 
-
+### Successfully acquired: 
+Password: ```xxxxx```
+#### Next Login Command:
+```ssh bandit2bandit.labs.overthewire.org -p 2220
