@@ -1,4 +1,4 @@
-## Level 0 to 1: Introduction to SSH and cat
+## Level 0 &rarr; 1: Introduction to SSH and cat
 
 #### Goal: 
 - Log in via SSH and find the password in a file named readme.
@@ -12,7 +12,7 @@ Method:
 	bandit0@banidt:~$ cat readme
 ### Successfully Acquired:
 Password: 
-```xxx```
+```xxxxx```
 
 Next Login Command: 
 ``` ssh bandit1@bandit.labs.overthewire.org -p 2220```
