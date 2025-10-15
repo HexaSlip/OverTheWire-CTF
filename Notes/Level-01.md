@@ -1,4 +1,4 @@
-## Level 1 to 2: Escaping the Hyphen (-)
+## Level 1 &rarr; 2: Escaping the Hyphen (-)
 #### Goal: 
 - Find the password in a file named ```-```
 ### Method:
