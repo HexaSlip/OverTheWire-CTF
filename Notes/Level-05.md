@@ -1,4 +1,4 @@
-## Level 5 &rarr; 6: File Searching with grep and Regex 
+## Level 5 &rarr; 6: File Searching with ```grep``` and Regex 
 #### Goal
 The password for the next level is stored in a file somewhere under the ```inhere``` directory and has all of the following properties: __human-readable, 1033 bytes in size__, and __not executable.__ 
 ### The Efficient Solution
