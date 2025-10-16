@@ -12,7 +12,7 @@ Key Concept: The ```ls -a``` command for revealing hidden files and directories
   bandit3@bandit:~/inhere$ cat.hidden
 ```
 #### Successfully Acquired 
- Password: ``` xxxxx ``` 
+#### Password: ``` xxxxx ``` 
 #### Next Login Password
 ``` ssh bandit4bandit.labsoverthewire.org -p 2220```
 
