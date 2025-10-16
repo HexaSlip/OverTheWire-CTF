@@ -1,6 +1,6 @@
 ## Level 4 &rarr; 5: Identifying Human-Readable Files (file)
 #### Goal: 
-- The password is in the only human-readable file in the ```inhere``` directory
+- The password is in the _only human-readable_ file in the ```inhere``` directory
 ### Method:
 -  1. The directory contained multiple files (```-file00``` through ```-file09```) that were not obviously text files.
 -  2. Used the ```file``` command with a wildcard pattern (```./-file*```) to check the content type of all files at once.
