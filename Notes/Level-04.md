@@ -1,4 +1,4 @@
-## Level 4 &rarr; 5: Identifying Human-Readable Files (file)
+## Level 4 &rarr; 5: Identifying Human-Readable Files (```file```)
 #### Goal: 
 - The password is in the _only human-readable_ file in the ```inhere``` directory
 ### Method:
