@@ -1,4 +1,4 @@
-## Level 3 &rarr; 4: Hidden Files (ls -a)
+## Level 3 &rarr; 4: Hidden Files (```ls -a```)
 #### Goal: 
 The password is in a hidden file inside the ```inhere``` directory
 ### Method:
