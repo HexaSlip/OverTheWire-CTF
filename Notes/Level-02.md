@@ -3,18 +3,18 @@
 - Find the password in a file named ``` spaces in this filename. ```
   
 ### Method:
-  - 1. Files with spaces require the spaces to be escaped so the shell treats the entire name as a single argument
-  - 2. Used single quotes ```('')``` before typing the filename to escape it. Alternatively, putting a slash before each word in the file would also work.
+  - 1. Files with spaces require the spaces to be __escaped__ so the shell treats the entire name as a single argument
+  - 2. Used __single quotes__ ```('')``` before typing the filename to escape it. Alternatively, putting a slash before each word in the file would also work.
     
 ### Key Concept:
-- Using single quotes ```('')``` for escaping characters or single/double quotes for literal strings in the shell.
+- Using __single quotes__ ```('')``` for escaping characters or single/double quotes for literal strings in the shell.
   
 #### Command Used: 
 ``` bandit2@bandit:~$ cat "spaces in this filename" or cat spaces\ in\ this\ filename```
 
-### Successfully Acquired 
+#### Successfully Acquired 
 
-Password: ```xxxxx```
+#### Password: ```xxxxx```
 
-Next Login Command:
+#### Next Login Command:
 ``` ssh bandit3@bandit.org.overthewire.org -p 2220```
