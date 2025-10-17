@@ -1,0 +1,4 @@
+# Never track unredacted or private screenshots
+Private/
+Screenshots/originals/
+Screenshots/unredacted/
