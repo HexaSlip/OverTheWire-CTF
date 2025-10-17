@@ -1,8 +1,8 @@
 ## Level 5 &rarr; 6: File Searching with ```grep``` and Regex 
-#### Goal
+#### Goal:
 The challenge required locating a single, human-readable file buried deep within a complex structure of directories and binary/non-text files. The file was defined by three specific attributes: __human,readable, 1033 bytes in size,__ and __non executable.__
 
-### The Efficient Solution
+### The Efficient Solution:
 The solution involved using the powerful and precise ```find``` command to filter the file system based on these criteria.
 
 | Component       | Meaning        | What it Does  |
